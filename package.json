@@ -1,7 +1,7 @@
 {
-  "name": "uniprof-client-service-api",
+  "name": "uniprof-design-service-api",
   "version": "1.0.0",
-  "description": "Uniprof client service",
+  "description": "Uniprof design service",
   "main": "server.js",
   "scripts": {
     "test": "nodemon server.js"
