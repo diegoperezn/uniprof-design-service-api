@@ -1,0 +1,22 @@
+{
+  "name": "uniprof-client-service-api",
+  "version": "1.0.0",
+  "description": "Uniprof client service",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.1.1",
+    "mongoose": "^4.11.10",
+    "node-restful": "^0.2.6",
+    "validator": "^8.1.0"
+  }
+}
