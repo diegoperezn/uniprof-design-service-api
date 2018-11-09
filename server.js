@@ -25,6 +25,6 @@ Resource.register(app, '/design');
 
 app.listen(process.env.PORT || 8081);
 
-console.log("client-design-api started");
+console.log("design-design-api started");
 
 
